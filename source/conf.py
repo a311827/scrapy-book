@@ -31,9 +31,9 @@ master_doc = 'index'
 
 # -- Project information -----------------------------------------------------
 
-project = 'scrapy-cookbook'
+project = 'ZenLive User Guide'
 copyright = '2020, Zen Dev Team'
-author = 'Ken Huang'
+author = 'Eric liu'
 
 # The full version, including alpha/beta/rc tags
 release = '0.2'
