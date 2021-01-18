@@ -12,3 +12,14 @@ Stream push   	     Protocol             RTMP push
 Live streaming       Protocol	          Supports RTMP, HTTP-FLV, and HLS			                                                
 		     Methods		  Playback using iOS, Android, and web SDKs, app demo, or third-party software such as VLC.    
 ==================== ==================== =============================================================================================
+
+
++----+---------------------------------+
+| ID | Command                         |
++====+=================================+
+| 1  | ps | grep abc                   |
++----+---------------------------------+
+| 2  | ps | grep dfg                   |
++----+---------------------------------+
+| 3  | ps | grep xcvb                  |
++----+---------------------------------+
