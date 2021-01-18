@@ -8,6 +8,7 @@ Zen Cloud Live Service(ZenLive) provides you with high-definition smooth, low-la
    :caption: Product Introduction
 
    product
+   functions
 
 .. toctree::
    :maxdepth: 2
